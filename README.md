@@ -31,8 +31,8 @@ This repository is dedicated to an innovative Brain-Computer Interface (BCI) pro
 ---
 ### 📊 Data Visualization
 
-<p align="center">
-  <img <img src="https://github.com/deemano/brain_computer_interface/assets/92692432/2712b30e-9cf2-45ed-b334-54ec5e1ac5d8" width="25%">
+<p align="left">
+  <img <img src="https://github.com/deemano/brain_computer_interface/assets/92692432/2712b30e-9cf2-45ed-b334-54ec5e1ac5d8" width="35%">
 </p>
 
 ---

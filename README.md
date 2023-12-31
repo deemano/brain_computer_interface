@@ -30,10 +30,9 @@ This repository is dedicated to an innovative Brain-Computer Interface (BCI) pro
 2. Ongoing developments...
 ---
 ### 📊 Data Visualization
-![1158222_2003  Converted -01](https://github.com/deemano/brain_computer_interface/assets/92692432/2712b30e-9cf2-45ed-b334-54ec5e1ac5d8)
 
 <p align="center">
-  <img src="[https://github.com/YourBCIProject/assets/eeg_visualization.png](https://github.com/deemano/brain_computer_interface/assets/92692432/2712b30e-9cf2-45ed-b334-54ec5e1ac5d8)https://github.com/deemano/brain_computer_interface/assets/92692432/2712b30e-9cf2-45ed-b334-54ec5e1ac5d8" width="15%">
+  <img <img src="https://github.com/deemano/brain_computer_interface/assets/92692432/2712b30e-9cf2-45ed-b334-54ec5e1ac5d8" width="15%">
 </p>
 
 ---
